@@ -1,13 +1,13 @@
 {
-  "profile": "https://image.idealclover.cn/blog/assets/icon.png",
+  "profile": "statics/pix.jpg",
   "name": "晗菌",
   "description": "来给晗菌投喂棒棒糖吧🍭",
-  "qrlogo": "statics/icon.png",
+  "qrlogo": "statics/icon.jpg",
   "alipay": {
     "title": "😘支付宝扫一扫 投喂晗菌",
     "othertitle": "长按图片保存，在支付宝打开<br />😘感谢投喂晗菌",
     "url": "https://qr.alipay.com/fkx15000tgnaw00husavo01",
-    "open_url": "alipays://platformapi/startapp?appId=10000007&qrcode=https://qr.alipay.com/FKX00710CQCHIHK4B9CA31",
+    "open_url": "alipays://platformapi/startapp?appId=10000007&qrcode=https://qr.alipay.com/fkx15000tgnaw00husavo01",
     "savetext": "保存二维码"
   },
   "wechatpay": {
